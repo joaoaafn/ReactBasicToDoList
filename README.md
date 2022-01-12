@@ -1,5 +1,7 @@
 # App Simples de Lista
 
+Aplicação feita em React seguindo o tutorial no <a href="https://www.youtube.com/watch?v=ErjWNvP6mko">youtube</a>, de Felipe Rocha.
+
 ## Tecnologias utilizadas:
 - [x] React
 ## Iniando o ambiente de desenvolvimento:
