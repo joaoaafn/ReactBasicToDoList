@@ -12,18 +12,7 @@ import './App.css';
 
 const App = () => {
   //const message = "Hello World!";
-  const [tasks, setTasks] = useState([
-    {
-      id: '1',
-      tittle: 'Estudar Programação',
-      completed: false,
-    },
-    {
-      id: '2',
-      tittle: 'Ler Livros',
-      completed: true,
-    }
-  ]);
+  const [tasks, setTasks] = useState([]);
 
   useEffect(() => {
     const fecthTasks = async () => {
@@ -46,7 +35,7 @@ const App = () => {
 
     const handleTaskAddition = (taskTitle) => {
       const newTasks = [...tasks, {
-        tittle: taskTitle,
+        title: taskTitle,
         id: uuidv4(),
         completed: false,
       },

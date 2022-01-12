@@ -1,3 +1,16 @@
+# App Simples de Lista
+
+
+## Clone este repositório:
+$ git clone https://github.com/joaoaafn/reactBasicToDoList.git
+## Para iniciar o projeto:
+$ npm install
+## Para rodar o projeto:
+$ npm start
+
+<h1 align="center"><img alt="Readme" src="./github/demo.gif" /></h1>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,7 +18,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
