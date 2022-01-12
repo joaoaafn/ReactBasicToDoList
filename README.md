@@ -2,9 +2,9 @@
 
 
 ## Clone este repositório:
-$ git clone https://github.com/joaoaafn/reactBasicToDoList.git
-## Para iniciar o projeto:
-$ npm install
+`$ git clone https://github.com/joaoaafn/reactBasicToDoList.git`
+## Iniando o ambiente de desenvolvimento:
+1. Rode `npm install` ou `yarn install`
 ## Para rodar o projeto:
 $ npm start
 
